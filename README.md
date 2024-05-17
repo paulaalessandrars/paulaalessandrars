@@ -11,7 +11,7 @@
   <h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> I'm in the process of transitioning to a career in technology. Currently, I'm studying ADS, Software Engineering, and the content from DIO.
 <br> </br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="25" height="25" /> In my day-to-day, I enjoy exploring new technologies and frameworks, with a special focus on HTML, CSS, JavaScript, React, Vue.js and Python.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="25" height="25" /> In my day-to-day, I enjoy exploring new technologies and frameworks, with a special focus on JavaScript, React, Node.js Vue.js and Python.
 <br> </br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" /> Besides the world of development, I love discussing books, games, and everything related to the geek universe. I'm always open to new connections and collaboration opportunities.
 </h4>
