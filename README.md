@@ -8,7 +8,7 @@
 <div>
 
 
-  <h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> I'm in the process of transitioning to a career in technology. Currently, I'm studying ADS and Software Engineering.
+  <h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> I'm in the process of transitioning to a career in technology. Currently, I'm studying ADS.
 <br> </br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="25" height="25" /> In my day-to-day, I enjoy exploring new technologies and frameworks, with a special focus on JavaScript, React, Node.js, Vue.js and Python.
