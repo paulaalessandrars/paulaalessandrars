@@ -58,5 +58,4 @@
   <br>
   - GitHub Skill Icons by <a href="https://github.com/tandpfun/skill-icons.git">Thijs</a>
   <br>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
 </details>
