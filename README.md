@@ -22,7 +22,7 @@
 <h2 align="center" style="color: #BA55D3;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Learning</h2>
 </br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,pycharm,figma,html,css,bootstrap,js,ts,vuejs,nodejs,angular,react,py,c,dotnet,autocad,notion&perline=20" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,pycharm,figma,html,css,bootstrap,js,ts,vuejs,nodejs,angular,react,py,cs,dotnet,autocad,notion&perline=20" />
 </div>
 
 
