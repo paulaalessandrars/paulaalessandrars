@@ -54,7 +54,9 @@
   <summary><h2 align="center" style="color: #BA55D3;">Credits</summary> 
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   <br>
-   - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
+  - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
+  <br>
+  - GitHub Skill Icons by <a href="https://github.com/tandpfun/skill-icons.git">Thijs</a>
   <br>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
 </details>
