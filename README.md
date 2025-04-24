@@ -43,7 +43,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=30A3DE)](https://www.linkedin.com/in/paula-alessandra-rodrigues-dos-santos-57586759/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-alessandra-rodrigues-dos-santos-57586759/)
 [![DIO](https://img.shields.io/badge/-%20DIO%20PROFILE-9932CC?style=for-the-badge)](https://www.dio.me/users/paulaalessandra_rodrigues_75255)
 [![E-mail](https://img.shields.io/badge/-Email-F0F8FF?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:paulaalessandra_rodrigues@outlook.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-F08080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulaalessandrars/)
