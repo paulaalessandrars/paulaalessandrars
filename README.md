@@ -29,13 +29,22 @@
 <br> </br>
 
 
-<h2 align="center" style="color:#BA55D3;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> GitHub Profile Stats</h2>
-</br>
-<div align="center"> 
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />
+  GitHub Profile Stats
+</h2>
+
+<div align="center">
   <a href="https://github.com/paulaalessandrars">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulaalessandrars&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" height="180em"><a>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulaalessandrars&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" height="180em"></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaalessandrars&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" width="350px" height="170px" />
+  </a>
+
+  <a href="https://github.com/paulaalessandrars">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulaalessandrars&hide_border=true&theme=dracula" alt="Stats Card" width="350px" height="170px" />
+  </a>
 </div>
+
+
 
 <br> </br>
 
