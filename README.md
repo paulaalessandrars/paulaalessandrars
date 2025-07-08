@@ -21,7 +21,7 @@
   <br> </br>
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" />
-  Outside of tech, I’m a huge fan of books, video games, and geek culture. I love connecting with others, sharing knowledge and collaborating on creative, impactful projects.
+  Outside of tech, I’m a huge fan of books, video games, and geek culture. I love connecting with others, sharing knowledge and collaborating on creative and impactful projects.
 </h4>
 </div>
 
