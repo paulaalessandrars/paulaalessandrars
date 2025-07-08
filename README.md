@@ -7,13 +7,21 @@
 <h2 align="center" style="color: #BA55D3;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="25" height="25"/> About me</h2>
 <div>
 
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTV2eDc5bDJlNmJhZ255YjczdGxneGk5aG5oNWxpdDhjZ3h4dDcydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iCjxc9IuqTSDT0IIur/giphy.gif" width="300" alt="Coding gif" />
+</div>
 
-  <h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> I’m currently studying Analysis and Systems Development (ADS) and focusing on building a solid foundation in tech. I’m passionate about exploring new technologies and frameworks to enhance my skills and stay up-to-date with the ever-evolving tech landscape.
-<br> </br>
+<h4 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" />
+  I’m currently studying Analysis and Systems Development (ADS) and building a solid foundation in tech through hands-on practice and academic projects.
+  <br> </br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="25" height="25" /> I’m dedicated to mastering JavaScript, React, Node.js, and Vue.js, as well as expanding my knowledge of Python. I enjoy working on projects that challenge me to think creatively and build scalable, efficient applications.
-<br> </br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" /> Outside of coding, I’m an avid fan of books, video games, and everything related to geek culture. I believe in the power of collaboration and am always eager to connect with others to exchange ideas and work on exciting projects together.
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="25" height="25" />
+  My main focus is on Frontend Development with HTML, CSS and JavaScript, as well as Database Design and Automation using SQL and Python.
+  <br> </br>
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" />
+  Outside of tech, I’m a huge fan of books, video games, and geek culture. I love connecting with others, sharing knowledge and collaborating on creative, impactful projects.
 </h4>
 </div>
 
