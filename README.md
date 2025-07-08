@@ -8,7 +8,7 @@
 <div>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTV2eDc5bDJlNmJhZ255YjczdGxneGk5aG5oNWxpdDhjZ3h4dDcydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iCjxc9IuqTSDT0IIur/giphy.gif" width="300" alt="Coding gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpoc2hpaGloeGU5dnAzYmd6OXpqOHRhNG5vYXFtZm1zOWFoZHB4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Coding gif" />
 </div>
 
 <h4 align="center">
