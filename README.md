@@ -35,15 +35,9 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/paulaalessandrars">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaalessandrars&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" width="350px" height="170px" />
-  </a>
-
-  <a href="https://github.com/paulaalessandrars">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulaalessandrars&hide_border=true&theme=dracula" alt="Stats Card" width="350px" height="170px" />
-  </a>
+  <a href="https://github.com/paulaalessandrars"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaalessandrars&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" width="360px" height="200px" /></a>
+  <a href="https://github.com/paulaalessandrars"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulaalessandrars&hide_border=true&theme=dracula" alt="Stats Card" width="350px" height="170px" /></a>
 </div>
-
 
 
 <br> </br>
