@@ -135,7 +135,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-alessandra-rodrigues-dos-santos-57586759/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://paulaalessandrars.github.io/portfolio-paula-alessandra/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://paulaalessandrars.github.io/PaulaAlessandra.dev/)
 [![Outlook](https://img.shields.io/badge/Outlook-0A66C2?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paulaalessandra_rodrigues@outlook.com)
 [![DIO](https://img.shields.io/badge/DIO-7C3AED?style=for-the-badge&logoColor=white)](https://www.dio.me/users/paulaalessandra_rodrigues_75255)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulaalessandrars/)
