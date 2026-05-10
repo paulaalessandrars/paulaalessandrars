@@ -1,73 +1,146 @@
-<div align="center" style="text-align: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=BA55D3&lines=Wellcome!👋;%20My+name's+Paula+Alessandra+🙋🏻‍♀️" alt="Typing SVG">
-  </a>
-
-</div>
-<h2 align="center" style="color: #BA55D3;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="25" height="25"/> About me</h2>
-<div>
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpoc2hpaGloeGU5dnAzYmd6OXpqOHRhNG5vYXFtZm1zOWFoZHB4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Coding gif" />
-</div>
-
-<h4 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" />
-  I’m currently studying Analysis and Systems Development (ADS) and building a solid foundation in tech through hands-on practice and academic projects.
-  <br> </br>
-
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="25" height="25" />
-  My main focus is on Frontend Development with HTML, CSS and JavaScript, as well as Database Design and Automation using SQL and Python.
-  <br> </br>
-
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" />
-  Outside of tech, I’m a huge fan of books, video games, and geek culture. I love connecting with others, sharing knowledge and collaborating on creative and impactful projects.
-</h4>
-</div>
-
-<br> </br>
-
-<h2 align="center" style="color: #BA55D3;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Learning</h2>
-</br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,pycharm,eclipse,figma,html,css,bootstrap,js,ts,vuejs,nodejs,angular,react,py,mysql,aws,cs,dotnet,php,java,autocad,notion,obsidian,postman,rabbitmq&perline=10" />
-</div>
-
-
-<br> </br>
-
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />
-  GitHub Profile Stats
-</h2>
-
-<div align="center">
-  <a href="https://github.com/paulaalessandrars"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaalessandrars&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" width="360px" height="200px" /></a>
-  <a href="https://github.com/paulaalessandrars"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulaalessandrars&hide_border=true&theme=dracula" alt="Stats Card" width="350px" height="170px" /></a>
-</div>
-
-
-<br> </br>
-
-<h2 align="center" style="color: #BA55D3;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="25" height="25" /> Contact Me </h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2D4A,100:1F6FEB&height=160&section=header&text=Paula%20Alessandra&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Systems%20Analyst&descAlignY=65&descSize=20"/>
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;PHP+%7C+Java+%2F+Spring+Boot+%7C+MySQL;35%2B+projects+delivered+%F0%9F%93%A6;ADS+Student+%E2%80%94+open+to+opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-alessandra-rodrigues-dos-santos-57586759/)
-[![DIO](https://img.shields.io/badge/-%20DIO%20PROFILE-9932CC?style=for-the-badge)](https://www.dio.me/users/paulaalessandra_rodrigues_75255)
-[![E-mail](https://img.shields.io/badge/-Email-F0F8FF?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:paulaalessandra_rodrigues@outlook.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-F08080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulaalessandrars/)
+</div>
+
+<br/>
+
+<h2 align="center">👩‍💻 About Me</h2>
+
+<div align="center">
+
+🚀 **Full-Stack Developer** — freelance, building complete web systems with **PHP, Java/Spring Boot, MySQL** and **JavaScript**
+
+**35+ projects delivered** across gamification, dashboards, e-commerce, payment processing, APIs and CRM
+
+🏢 Currently working in **Technical Support** while also acting as a **Freelance Full-Stack Developer**
+
+📐 Background in **Electrical Engineering** · Studying **ADS at Uninter (2022–2026)**
+
+🎮 Bookworm · Gamer · Geek culture enthusiast
+
+</div>
+
+<br/>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=php,java,spring,py,nodejs" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,pycharm,figma,postman,jira" />
+
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulaalessandrars&theme=tokyonight" height="165"/>
+<img src="https://streak-stats.demolab.com?user=paulaalessandrars&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulaalessandrars&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paulaalessandrars&theme=tokyonight" height="165"/>
+
+</div>
+
+<br/>
+
+<h2 align="center">🏆 Trophies</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=paulaalessandrars&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+
+</div>
+
+<br/>
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/paulaalessandrars/paulaalessandrars/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br/>
+
+<h2 align="center">⭐ Featured Projects</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>💰 Solvus</h3>
+      <p>Personal financial control system</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <br/><br/>
+      <a href="https://github.com/paulaalessandrars/Solvus">
+        <img src="https://img.shields.io/badge/View%20Repo-1F6FEB?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🌐 Portfolio</h3>
+      <p>Personal portfolio — pure HTML5, CSS3 & JavaScript</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <br/><br/>
+      <a href="https://github.com/paulaalessandrars/portfolio-paula-alessandra">
+        <img src="https://img.shields.io/badge/View%20Repo-1F6FEB?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔧 BD Oficina Mecânica</h3>
+      <p>Relational database modeling for auto repair shop management</p>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/paulaalessandrars/BD_oficina-mecanica">
+        <img src="https://img.shields.io/badge/View%20Repo-1F6FEB?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">📬 Contact</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-alessandra-rodrigues-dos-santos-57586759/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://paulaalessandrars.github.io/portfolio-paula-alessandra/)
+[![Outlook](https://img.shields.io/badge/Outlook-0A66C2?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paulaalessandra_rodrigues@outlook.com)
+[![DIO](https://img.shields.io/badge/DIO-7C3AED?style=for-the-badge&logoColor=white)](https://www.dio.me/users/paulaalessandra_rodrigues_75255)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulaalessandrars/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5551981368934)
 
+</div>
 
-<details align="center">
-  <summary><h2 align="center" style="color: #BA55D3;">Credits</summary> 
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  <br>
-  - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
-  <br>
-  - GitHub Skill Icons by <a href="https://github.com/tandpfun/skill-icons.git">Thijs</a>
-  <br>
-</details>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:1F2D4A,100:0D1117&height=120&section=footer"/>
