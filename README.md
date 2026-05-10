@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;PHP+%7C+Java+%2F+Spring+Boot+%7C+MySQL;35%2B+projects+delivered+%F0%9F%93%A6;ADS+Student+%E2%80%94+open+to+opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;PHP+%7C+Java+%2F+Spring+Boot+%7C+MySQL;35%2B+projects+delivered;ADS+Student+%E2%80%94+open+to+opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,20 +30,22 @@
 
 <div align="center">
 
-**Backend**
-
+<h4>⬡ &nbsp; Backend</h4>
 <img src="https://skillicons.dev/icons?i=php,java,spring,py,nodejs" />
 
-**Frontend**
+<br/>
 
+<h4>⬡ &nbsp; Frontend</h4>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
 
-**Databases**
+<br/>
 
+<h4>⬡ &nbsp; Databases</h4>
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-**Tools & Environment**
+<br/>
 
+<h4>⬡ &nbsp; Tools & Environment</h4>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,pycharm,figma,postman,jira" />
 
 </div>
