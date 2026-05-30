@@ -124,12 +124,7 @@
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <br/><br/>
-      <a href="https://portal-web-hero-force.vercel.app">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white"/>
-      </a>
-      <a href="https://github.com/paulaalessandrars/portal-web-HeroForce">
-        <img src="https://img.shields.io/badge/View%20Repo-1F6FEB?style=flat-square&logo=github&logoColor=white"/>
-      </a>
+      <a href="https://portal-web-hero-force.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white"/></a><a href="https://github.com/paulaalessandrars/portal-web-HeroForce"><img src="https://img.shields.io/badge/View%20Repo-1F6FEB?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
