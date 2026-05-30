@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;PHP+%7C+Java+%2F+Spring+Boot+%7C+MySQL;35%2B+projects+delivered;ADS+Student+%E2%80%94+open+to+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;PHP+%7C+Laravel+%7C+Vue.js+%7C+Java+%2F+Spring+Boot;PostgreSQL+%7C+MySQL+%7C+Docker;35%2B+projects+delivered;Open+to+new+opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +12,15 @@
 
 <div align="center">
 
-🚀 **Full-Stack Developer** — freelance, building complete web systems with **PHP, Java/Spring Boot, MySQL** and **JavaScript**
+🚀 **Full-Stack Developer** — freelance, building complete web systems with **PHP / Laravel, Vue.js, Java/Spring Boot, PostgreSQL, MySQL** and **JavaScript**
 
-**35+ projects delivered** across gamification, dashboards, e-commerce, payment processing, APIs and CRM
+**35+ projects delivered** across gamification, dashboards, e-commerce, payment processing, REST APIs and CRM systems
 
-🏢 Currently working in **Technical Support** while also acting as a **Freelance Full-Stack Developer**
+🏢 Currently in **Technical Support** · actively taking on **Freelance Full-Stack** projects
 
 📐 Background in **Electrical Engineering** · Studying **ADS at Uninter (2022–2026)**
+
+🔎 **Open to new opportunities** — CLT, PJ or remote
 
 🎮 Bookworm · Gamer · Geek culture enthusiast
 
@@ -31,22 +33,22 @@
 <div align="center">
 
 <h4>⬡ &nbsp; Backend</h4>
-<img src="https://skillicons.dev/icons?i=php,java,spring,py,nodejs" />
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,py,nodejs" />
 
 <br/>
 
 <h4>⬡ &nbsp; Frontend</h4>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vuejs,tailwind" />
 
 <br/>
 
 <h4>⬡ &nbsp; Databases</h4>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 <br/>
 
 <h4>⬡ &nbsp; Tools & Environment</h4>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,pycharm,figma,postman,jira" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,nginx,vite,vscode,eclipse,pycharm,figma,postman,jira" />
 
 </div>
 
@@ -72,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=paulaalessandrars&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=paulaalessandrars&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -115,11 +117,18 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <h3>🔧 BD Oficina Mecânica</h3>
-      <p>Relational database modeling for auto repair shop management</p>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <h3>🦸 portal-web-HeroForce</h3>
+      <p>Full-stack project management platform with JWT auth, roles, dashboards & Docker deploy</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <br/><br/>
-      <a href="https://github.com/paulaalessandrars/BD_oficina-mecanica">
+      <a href="https://portal-web-hero-force.vercel.app">
+        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/paulaalessandrars/portal-web-HeroForce">
         <img src="https://img.shields.io/badge/View%20Repo-1F6FEB?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
