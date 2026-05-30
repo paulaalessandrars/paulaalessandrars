@@ -70,11 +70,11 @@
 
 <br/>
 
-<h2 align="center">🏆 Trophies</h2>
+<h2 align="center">📈 Activity Graph</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=paulaalessandrars&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=paulaalessandrars&theme=tokyo-night&hide_border=true&area=true&area_color=1F6FEB&color=58A6FF&line=1F6FEB&point=58A6FF"/>
 
 </div>
 
